@@ -14,16 +14,21 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4. 
 
 ## Program:
-```
+<img width="664" alt="Screenshot 2024-11-28 at 6 23 44 PM" src="https://github.com/user-attachments/assets/5f8c9d73-1020-4888-8ce5-ff4444d88aff">
+
+
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: 
-RegisterNumber:  
+
+Developed by:V.Patrick alex emmanuel
+
+RegisterNumber: 24900019
+
 */
-```
+
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+<img width="1171" alt="Screenshot 2024-11-28 at 6 24 10 PM" src="https://github.com/user-attachments/assets/c6381710-955e-438e-a225-bf8fa35576ed">
 
 
 ## Result:
