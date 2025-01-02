@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
- 1.Import pandas
- 2.Import Decision tree classifier
- 3.Fit the data in the model
- 4.Find the accuracy score
+  1.Import pandas and matplotlib.pyplot
+ 2.Read the dataset and transform it
+ 3.Import KMeans and fit the data in the model
+ 4.Plot the Cluster graph
 
 ## Program:
 <img width="664" alt="Screenshot 2024-11-28 at 6 23 44 PM" src="https://github.com/user-attachments/assets/5f8c9d73-1020-4888-8ce5-ff4444d88aff">
